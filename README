@@ -1,0 +1,169 @@
+<!--
+╭─────────────────────────────────────────────────────────────────────────────╮
+│ PERSONALIZE BEFORE PUBLISHING                                               │
+│ 1. Replace YOUR_USERNAME everywhere with your GitHub username.             │
+│ 2. Replace YOUR_LINKEDIN_USERNAME with your LinkedIn username.             │
+│ 3. Remove technologies you cannot comfortably discuss.                     │
+│ 4. The animated snake requires the GitHub Actions workflow described below. │
+╰─────────────────────────────────────────────────────────────────────────────╯
+-->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,45:161b22,100:1f6feb&text=Bhuvan%20Acharya&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Open%20Source&descAlignY=59&descSize=16" alt="Bhuvan Acharya — Software Engineer, AI/ML, and Open Source"/>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=680&height=55&lines=I+turn+ideas+into+working+software.;Backend+systems+%C2%B7+Developer+tools+%C2%B7+AI%2FML;Build.+Break.+Understand.+Improve.;Always+learning%2C+always+shipping." alt="Animated tagline: turning ideas into working software, exploring backend systems, developer tools, and AI/ML."/>
+</a>
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Say_hello-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=1f6feb&label=PROFILE+VIEWS" alt="Profile view counter"/>
+
+</div>
+
+---
+
+## `> whoami`
+
+I'm a Computer Science undergraduate at **IIIT Tiruchirappalli** who enjoys building useful software and understanding how systems work beneath the surface.
+
+I work across the stack—from APIs and database design to frontend experiences, deployment automation, and machine learning experiments. I care about writing maintainable code, making systems reliable, and learning by building.
+
+- 🔭 **Building:** Full-stack applications, backend services, and developer tooling.
+- 🧠 **Exploring:** AI/ML, systems programming, database internals, and distributed systems.
+- 🛠️ **Enjoy:** Turning rough ideas into well-documented, reproducible software.
+- 🌱 **Always learning:** Modern C++, algorithms, infrastructure, and open-source engineering.
+- 🤝 **Interested in:** Open-source collaboration and technically challenging problems.
+
+---
+
+## `> stack --visualize`
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" alt="C++, Java, Python, JavaScript, and TypeScript"/>
+
+**APPLICATION DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,express,tailwind&theme=dark" alt="React, Next.js, Node.js, Spring, Express, and Tailwind CSS"/>
+
+**DATA & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,nginx,linux,git,github,githubactions,jenkins,cloudflare&theme=dark" alt="PostgreSQL, SQLite, Docker, Nginx, Linux, Git, GitHub, GitHub Actions, Jenkins, and Cloudflare"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, and scikit-learn"/>
+
+</div>
+
+---
+
+## `> activity --live`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub overview showing public repository and contribution statistics"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most-used languages in public repositories; language share is not a measure of proficiency"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak and activity summary"/>
+</a>
+
+</div>
+
+---
+
+## `> experience --brief`
+
+**Associate Software Engineer Intern · Nebula Technologies Labs**
+
+Contributed to full-stack product development, backend and database design, REST APIs, Docker-based deployments, and CI/CD automation.
+
+**Training & Placement Representative · IIIT Tiruchirappalli**
+
+Support placement coordination and student communication.
+
+**Head Coordinator · Web Development Group**
+
+Help coordinate web development activities and collaborative technical learning.
+
+---
+
+## `> currently_curious_about`
+
+```text
+01  Modern C++ and systems programming
+02  Data structures, algorithms and competitive programming
+03  Database internals and distributed systems
+04  Machine learning and deep learning
+05  Developer experience and open-source infrastructure
+06  Reproducible computational research
+```
+
+---
+
+## `> contribution_graph`
+
+<div align="center">
+
+<!--
+OPTIONAL ANIMATED CONTRIBUTION SNAKE
+This image appears only after you install the GitHub Actions workflow:
+https://github.com/Platane/snk
+Create .github/workflows/snake.yml in this profile repository and configure
+it to generate output/github-contribution-grid-snake.svg on the output branch.
+Then uncomment the image below.
+-->
+
+<!--
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution graph"/>
+-->
+
+<sub>Consistent progress beats occasional perfection.</sub>
+
+</div>
+
+---
+
+## `> find_me_online`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+
+<br/><br/>
+
+**Curiosity drives the build. Engineering makes it real.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1f6feb,55:161b22,100:0d1117" alt="Blue gradient wave footer"/>
+
+</div>
